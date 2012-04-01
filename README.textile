@@ -1,1 +1,1 @@
-.h1 Phonegap/Bootstrap/Stasis/HAML
+h1. Phonegap/Bootstrap/Stasis/HAML
