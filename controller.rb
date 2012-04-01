@@ -1,0 +1,5 @@
+ignore "compass.rb"
+ignore "Gemfile"
+ignore "Gemfile.lock"
+ignore "build.rb"
+ignore ".rvmrc"
