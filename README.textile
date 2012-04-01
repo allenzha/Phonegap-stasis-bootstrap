@@ -8,11 +8,9 @@ h2. Usage
 
 Clone this repo:
 
-<pre><code>
-	git clone git://github.com/danhilltech/Phonegap-stasis-bootstrap.git
+<pre><code>git clone git://github.com/danhilltech/Phonegap-stasis-bootstrap.git
 </code></pre>
 
 Run the builder:
-<pre><code>
-	ruby build.rb
+<pre><code>ruby build.rb
 </code></pre>
