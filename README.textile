@@ -1,1 +1,18 @@
 h1. Phonegap/Bootstrap/Stasis/HAML
+
+h2. Intro
+
+This is currently a personal project. The aim is to automate the build of a Phonegap www directory from a more dynamic ruby source. Included libraries are: Twitter bootsrap, jQuery, jqTouch, backbone.js. Stylesheets are rendered with compass/sass, and layouts with HAML. Stasis provides a build mechanism to pull everything together into a single html file and stylesheet.
+
+h2. Usage
+
+Clone this repo:
+
+<pre><code>
+	git clone git://github.com/danhilltech/Phonegap-stasis-bootstrap.git
+</code></pre>
+
+Run the builder:
+<pre><code>
+	ruby build.rb
+</code></pre>
